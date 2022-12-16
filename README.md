@@ -1,8 +1,8 @@
 <h1>Hi, I'm Edrick! </h1>
 <h2>👨‍💻 Web Development Projects:</h2>
-
-
-
+MineSweeper
+Space Invaders
+Jump and Slide
 
 
 <h2>📺 Popular YouTube Videos</h2>
