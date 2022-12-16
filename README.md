@@ -1,7 +1,7 @@
 <h1>Hi, I'm Edrick! </h1>
 <h2>👨‍💻 Web Development Projects:</h2>
-MineSweeper
-Space Invaders
+MineSweeper,
+Space Invaders, and
 Jump and Slide
 
 
