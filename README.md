@@ -12,10 +12,9 @@
 
 [<img align="left" alt="Edrick Jean| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" Edrick Jean | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" Edrick Jean| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [twitter]: https://twitter.com/edrickjean1
-[instagram]: https://www.instagram.com/edrickjean
 [linkedin]: [https://linkedin.com/in/edrickjean](https://www.linkedin.com/in/edrick-jean-32008725a/)
 
 <!--
